@@ -30,4 +30,4 @@ while True:
         resultado(nombre, creditoActual, TipoTarjeta, creditoAnterior)
         break 
     else:
-        print("Tipo de tarjeta no válido (1, 2, 3, 4)")  # Corregí el error tipográfico aquí
+        print("Tipo de tarjeta no válido (1, 2, 3, 4)")  
